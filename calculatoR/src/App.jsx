@@ -58,7 +58,6 @@ function App() {
     }
   };
 
-  // Common button styles to match CalcButtons
   const sideButtonStyles = "m-1 hover:bg-amber-900 hover:border-white hover:text-white w-[22%] sm:w-[80px] aspect-square border border-amber-900 rounded-lg text-xl sm:text-2xl font-semibold flex items-center justify-center transition-all duration-200";
 
   return (
